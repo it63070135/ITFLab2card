@@ -10,7 +10,7 @@
 <body>
 <div class="container">
     <div class="row">
-        <div class="col-sm-4">
+        <div class="col-12 col-sm-4">
             <div class="card">
                 <img class="card-img-top" src="img/staffs/staff4.jpg">
                 <div class="card-body">
@@ -22,7 +22,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-sm-4">
+        <div class="col-12 col-sm-4">
             <div  class="card">
                 <img class="card-img-top" src="img/creative/creative2.jpg">
                 <div class="card-body">
@@ -34,7 +34,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-sm-4">
+        <div class="col-12 col-sm-4">
             <div  class="card">
                 <img class="card-img-top" src="img/creative/creative7.jpg">
                 <div class="card-body">
